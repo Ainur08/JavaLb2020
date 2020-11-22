@@ -1,0 +1,27 @@
+:snippets: ../../../target/snippets
+
+= Описание API
+
+== Методы
+
+|===
+|Метод | Назначение
+|`POST`
+|Создать сущность
+|===
+
+=== Создание компании
+
+Можно создать компании со статусом *CREATED*
+
+.request
+include::{snippets}\create_company\http-request.adoc[]
+
+.response
+include::{snippets}/create_company/http-response.adoc[]
+
+.response-fields
+include::{snippets}/create_company/response-fields.adoc[]
+
+.links
+include::{snippets}/create_company/links.adoc[]

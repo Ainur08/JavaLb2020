@@ -1,0 +1,27 @@
+:snippets: ../../../target/snippets
+
+= Описание API
+
+== Методы
+
+|===
+|Метод | Назначение
+|`POST`
+|Подтверждение пользователя
+|===
+
+=== Подтверждение пользователя
+
+Можно подтвердить пользователя по айдишнику.
+
+.request
+include::{snippets}\check_confirmation\http-request.adoc[]
+
+.response
+include::{snippets}/check_confirmation/http-response.adoc[]
+
+.response-fields
+include::{snippets}/check_confirmation/response-fields.adoc[]
+
+.links
+include::{snippets}/check_confirmation/links.adoc[]
