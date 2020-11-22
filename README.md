@@ -1,1 +1,1 @@
-https://youtu.be/qkpVshTqlkI
+https://youtu.be/qkpVshTqlkI - pdfgenerator with rabbitmq
