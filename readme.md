@@ -1,5 +1,5 @@
 https://youtu.be/qkpVshTqlkI - JMeter <br>
-hw1 - сдавал на паре, на ней же продолжил делать hw2, поэтому кода нет <br>
+Rabbitmq - hw1 (изначально заливал тут https://github.com/Ainur08/JavaLab_2019/tree/master/Rabbitmq) <br>
 PdfGenerator - hw2 <br>
 HateOAS - hw3 <br>
 Annotation - hw4 <br>
