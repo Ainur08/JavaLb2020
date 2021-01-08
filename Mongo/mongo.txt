@@ -1,0 +1,32 @@
+use job
+
+db.createCollection("users");
+db.createCollection("company");
+
+db.users.insert(
+    {
+        firstName: 'Айнур',
+        lastName: 'Гатин',
+        city: 'Казань',
+        age: 20,
+        role: 'user',
+company: [ObjectId('a5bedvc9aed2')],
+});
+
+db.company.insert(
+    {
+        name: 'SimbirSoft',
+        country: 'Russia',
+        activity: 'WEB',
+        description: 'Ищем специалистов на работу в лучшую компанию',
+        phone: '89047198321',
+    });
+
+db.company.update({_id: ObjectId('a5bedvc9aed2')}, {
+    $set: {
+        user: ObjectId('f33a9aedsz32')
+    }
+});
+
+db.users.find()
+db.company.find()
