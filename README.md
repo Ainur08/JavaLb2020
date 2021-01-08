@@ -1,1 +1,1 @@
-https://youtu.be/qkpVshTqlkI - pdfgenerator with rabbitmq
+https://youtu.be/qkpVshTqlkI - JMeter
