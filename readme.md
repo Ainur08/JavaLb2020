@@ -3,4 +3,5 @@ Rabbitmq - hw1 (изначально заливал тут https://github.com/Ai
 PdfGenerator - hw2 <br>
 HateOAS - hw3 <br>
 Annotation - hw4 (изначально заливал тут https://github.com/Ainur08/course/tree/master/Annotation) <br>
-mongo.txt - hw5 <br>
+Mongo - hw5 <br>
+MongoInJava - hw6 <br>
