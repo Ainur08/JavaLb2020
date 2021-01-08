@@ -1,0 +1,6 @@
+ru\itis\annotation\HtmlFormProcessor.class
+ru\itis\annotation\models\User.class
+ru\itis\annotation\builder\HtmlFormBuilder.class
+ru\itis\annotation\html\HtmlInput.class
+ru\itis\annotation\html\HtmlForm.class
+ru\itis\annotation\models\Input.class
